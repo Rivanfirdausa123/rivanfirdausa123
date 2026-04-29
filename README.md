@@ -1,16 +1,33 @@
-## Hi there 👋
+# Hi, I'm Rivan 👋
 
-<!--
-**Rivanfirdausa123/rivanfirdausa123** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 D4 Computer Engineering @ PENS  
+🔧 Embedded Systems | IoT | Hypervisor | Robotics  
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🚀 Project Categories
+
+### 🔧 Embedded Systems
+- (akan diisi)
+
+### 🔌 PCB Design
+- (akan diisi)
+
+### 🤖 Robotics
+- (akan diisi)
+
+### 🧠 Hypervisor & OS
+- (akan diisi)
+
+---
+
+## 🛠 Tech Stack
+- C / C++
+- STM32
+- FreeRTOS
+- Linux Embedded / Yocto
+
+---
+
+## 📫 Contact
+- LinkedIn: (isi nanti)
