@@ -1,6 +1,6 @@
 # Hi, I'm Rivan 👋
 
-🎓 D4 Computer Engineering @ PENS  
+🎓Bachelor Applied Science Computer Engineering @ PENS  
 🔧 Embedded Systems | IoT | Hypervisor | Robotics  
 
 ---
