@@ -8,16 +8,12 @@
 ## 🚀 Project Categories
 
 ### 🔧 Embedded Systems
-- (akan diisi)
 
 ### 🔌 PCB Design
-- (akan diisi)
 
 ### 🤖 Robotics
-- (akan diisi)
 
 ### 🧠 Hypervisor & OS
-- (akan diisi)
 
 ---
 
@@ -30,4 +26,4 @@
 ---
 
 ## 📫 Contact
-- LinkedIn: (isi nanti)
+- LinkedIn: (Rivan Muhammad Firdausa)
