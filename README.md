@@ -26,4 +26,4 @@
 ---
 
 ## 📫 Contact
-- LinkedIn: (Rivan Muhammad Firdausa)
+- LinkedIn: Rivan Muhammad Firdausa
