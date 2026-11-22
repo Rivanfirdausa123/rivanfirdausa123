@@ -49,6 +49,14 @@
   </a>
 </p>
 
+### 💻 C/C++ Projects
+
+<p align="center">
+  <a href="https://github.com/Rivanfirdausa123/techcalc">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Rivanfirdausa123&repo=techcalc&theme=tokyonight&hide_border=true&border_radius=10" alt="techcalc"/>
+  </a>
+</p>
+
 ### 🎮 Games
 
 <p align="center">
