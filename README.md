@@ -55,6 +55,9 @@
   <a href="https://github.com/Rivanfirdausa123/tetrisgame">
     <img src="https://github-readme-stats.vercel.app/api/pin/?username=Rivanfirdausa123&repo=tetrisgame&theme=tokyonight&hide_border=true&border_radius=10" alt="tetrisgame"/>
   </a>
+  <a href="https://github.com/Rivanfirdausa123/catflap">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Rivanfirdausa123&repo=catflap&theme=tokyonight&hide_border=true&border_radius=10" alt="catflap"/>
+  </a>
 </p>
 
 ---
